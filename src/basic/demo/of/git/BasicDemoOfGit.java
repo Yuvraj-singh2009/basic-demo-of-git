@@ -3,11 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package basic.demo.of.git;
-
-/**
- *
- * @author devis
- */
+// authour is yuvraj sirus
 public class BasicDemoOfGit {
 
     /**
